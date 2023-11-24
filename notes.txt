@@ -1,0 +1,8 @@
+First create a root - this is just the window that opens when you run a project
+"root = Tk()"
+
+Top put object in a specific place in the root use grid
+obj.grid(row=, column=)
+  - this doesnt account for resizing
+  
+
